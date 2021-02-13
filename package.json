@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/takagiy/discord.np/issues"
   },
-  "homepage": "https://github.com/takagiy/discord.np#readme"
+  "homepage": "https://github.com/takagiy/discord.np#readme",
+  "dependencies": {
+    "discord-rpc": "^3.2.0",
+    "register-scheme": "github:devsnek/node-register-scheme"
+  }
 }
