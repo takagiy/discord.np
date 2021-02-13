@@ -1,0 +1,24 @@
+{
+  "name": "discord.np",
+  "version": "0.1.0",
+  "description": "Connect your Discord's rich presence with the last.fm's playing status.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/takagiy/discord.np.git"
+  },
+  "keywords": [
+    "discord",
+    "last.fm",
+    "rich-presence"
+  ],
+  "author": "takagiy <takagiy.4dev@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/takagiy/discord.np/issues"
+  },
+  "homepage": "https://github.com/takagiy/discord.np#readme"
+}
